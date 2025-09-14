@@ -1,5 +1,5 @@
 # HIT140
-## Group9 | Assessment2 # Group project presentation
+## Group9  |  Assessment2 ~ Group project presentation
 ### By Mafuja Akhtar & Shafiq Rahman
 
 #### Work distribution
