@@ -6,8 +6,8 @@
 #### Shafiq Rahman
 
 ##### Work distribution
-> Data Cleaning ~ Shafiq Rahman
-> Exploratory Analysis ~ Mafuja Akhtar
+- Data Cleaning ~ Shafiq Rahman
+- Exploratory Analysis ~ Mafuja Akhtar
 >> Modeling ~ Shafiq Rahman
 >> Stats Analysis ~ Maafuja Akhtar
 
