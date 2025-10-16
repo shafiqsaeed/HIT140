@@ -23,7 +23,6 @@ This project investigates how Egyptian fruit bats (Rousettus aegyptiacus) adjust
 - matplotlib
 - scipy
 - statsmodels
-- python-docx
 
 #### Outputs results
 
