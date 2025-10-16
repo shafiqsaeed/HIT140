@@ -1,15 +1,29 @@
 # HIT140
-## Group9  |  Assessment ~ Group project report
+## Group9  |  Assessments
 ### By Mafuja Akhtar & Shafiq Rahman
 
-## Assessment 3
+## Assessment 3 ~ Group project report
 #### Individual Contributions:
 - Mafuja Akhtar: Data wrangling, statistical modelling, and figure generation.
 - Shafiq Rahman: Literature review, report writing, and presentation coordination.
 - Shafiq Rahman: Data visualisation and interpretation.
 - Mafuja Akhtar: Quality assurance and referencing.
 
+#### Trello board with detailed project planning, collaboration and execution:
+##### https://trello.com/b/9RfirXbA/hit140 
+
+#### Github repo containing all codes and collaborative outputs: 
+##### https://github.com/shafiqsaeed/HIT140 
+
+
+###### ~~~~~~~
+
 ## Assessment 2 ~ Group project preseantation
+
+#### Assessment 2 presentation is available on YouTube:
+##### https://youtu.be/RGU1SGAFQy0  
+
+
 #### Work distribution
 - Data Cleaning ~ Shafiq Rahman
 - Exploratory Analysis ~ Mafuja Akhtar
