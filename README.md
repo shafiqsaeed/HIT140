@@ -4,10 +4,10 @@
 
 ## Assignment 3
 #### Individual Contributions:
--- Mafuja Akhtar: Data wrangling, statistical modelling, and figure generation.
--- Shafiq Rahman: Literature review, report writing, and presentation coordination.
--- Shafiq Rahman: Data visualisation and interpretation.
--- Mafuja Akhtar: Quality assurance and referencing.
+- Mafuja Akhtar: Data wrangling, statistical modelling, and figure generation.
+- Shafiq Rahman: Literature review, report writing, and presentation coordination.
+- Shafiq Rahman: Data visualisation and interpretation.
+- Mafuja Akhtar: Quality assurance and referencing.
 
 ## Assignment 2
 #### Work distribution
