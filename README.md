@@ -2,7 +2,7 @@
 ## Group9  |  Assessments
 ### By Mafuja Akhtar & Shafiq Rahman
 
-## Assessment 3 ~ Group project report
+## Assessment 3 ~ Group project report (16 October 2025)
 # Bats vs Rats: Investigation A (revisit) & Investigation B (seasonality)
 
 This repository contains reproducible Python code and outputs for analysing bat–rat interactions using two datasets:
@@ -25,6 +25,11 @@ This project investigates how Egyptian fruit bats (Rousettus aegyptiacus) adjust
 - statsmodels
 - python-docx
 
+#### Outputs results
+
+-  Figures → figs/
+
+- Tables & model summaries → outputs/
 
 #### Trello board with detailed project planning, collaboration and execution:
 ##### https://trello.com/b/9RfirXbA/hit140 
@@ -35,7 +40,7 @@ This project investigates how Egyptian fruit bats (Rousettus aegyptiacus) adjust
 
 ###### ~~~~~~~
 
-## Assessment 2 ~ Group project preseantation
+## Assessment 2 ~ Group project presentation (11 September 2025)
 
 #### Assessment 2 presentation is available on YouTube:
 ##### https://youtu.be/RGU1SGAFQy0  
@@ -57,7 +62,7 @@ This project investigates how Egyptian fruit bats (Rousettus aegyptiacus) adjust
 - Fig 8 & 10 Box plot
 - Fig 12 & 13 Bar, line
 
-
+#### ===========================================
 ##### All codes and console outputs in root/main
 ##### All graphs in folder [plots_all]
 ##### All console outputs in folder [screenshot]
