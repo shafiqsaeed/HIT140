@@ -1,0 +1,23 @@
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:     bat_landing_number   No. Observations:                 1967
+Model:                            GLM   Df Residuals:                     1959
+Model Family:                 Poisson   Df Model:                            7
+Link Function:                    Log   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -22690.
+Date:                Tue, 14 Oct 2025   Deviance:                       35816.
+Time:                        00:20:57   Pearson chi2:                 3.49e+04
+No. Iterations:                     5   Pseudo R-squ. (CS):             0.9381
+Covariance Type:            nonrobust                                         
+===================================================================================================
+                                      coef    std err          z      P>|z|      [0.025      0.975]
+---------------------------------------------------------------------------------------------------
+Intercept                           3.7303      0.008    451.889      0.000       3.714       3.746
+C(season)[T.Summer]                 0.0749      0.010      7.630      0.000       0.056       0.094
+C(season)[T.Winter]                -0.5887      0.014    -40.877      0.000      -0.617      -0.560
+rat_present                         0.0497      0.017      2.873      0.004       0.016       0.084
+rat_present:C(season)[T.Summer]     0.0138      0.023      0.601      0.548      -0.031       0.059
+rat_present:C(season)[T.Winter]     0.1592      0.025      6.454      0.000       0.111       0.208
+rat_minutes                        -0.0276      0.001    -20.463      0.000      -0.030      -0.025
+hours_after_sunset                 -0.0276      0.001    -27.517      0.000      -0.030      -0.026
+===================================================================================================
